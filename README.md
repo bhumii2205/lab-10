@@ -1,9 +1,9 @@
 # Java Thread Demonstration
 
 ## Author Details
-- Name: Riddhi Poddar
-- PRN: 2307016105
-- Batch: B2
+- Name: Bhoomika Kapde
+- PRN: 2307016025
+- Batch: A1
 
 ## Overview
 This Java program demonstrates multithreading using the Runnable interface. Two threads are created and started from the main method. Each thread prints a sequence of numbers with a specific start value, increment, and delay.
